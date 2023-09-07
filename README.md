@@ -1,4 +1,4 @@
-# Attitude Estimation MATLAB Code
+# Attitude Estimation of iPhone using MATLAB Code
 
 ## Overview
 
